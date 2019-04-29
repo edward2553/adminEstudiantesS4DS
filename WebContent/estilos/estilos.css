@@ -1,0 +1,17 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Nunito|Roboto+Condensed');
+
+
+/* font-family: 'Nunito', sans-serif; 
+font-family: 'Roboto Condensed', sans-serif; */
+
+
+.titulo{
+	
+	font-size:30px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.labelLogin{
+	font-family: 'Nunito', sans-serif; 
+}
